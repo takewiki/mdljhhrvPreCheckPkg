@@ -1,7 +1,7 @@
 Package: mdljhhrvPreCheckPkg
 Type: Package
 Title: preCheck for mdljhhrvPkg
-Version: 0.3.0
+Version: 0.4.0
 Author: hulilei
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
